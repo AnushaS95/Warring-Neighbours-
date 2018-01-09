@@ -1,5 +1,5 @@
 
-// SATVIR SINGH ANUSHA SWAMY//
+// ANUSHA SWAMY//
 
 
 public class WarringNeighbours
